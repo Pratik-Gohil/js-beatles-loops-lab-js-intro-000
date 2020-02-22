@@ -16,7 +16,7 @@ function iLoveTheBeatles(num) {
   var array = []
   if num > 15 {
     do {
-      
+
     } while (num != 15);
   }
   return array
